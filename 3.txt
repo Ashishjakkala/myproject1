@@ -3,3 +3,8 @@ story 2
 class Student(model.Model)
      Studentid=model.IntegerField()
      StudentName=model.CharField()
+
+
+story 3 
+
+class login 
